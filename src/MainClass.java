@@ -19,7 +19,7 @@ public class MainClass {
     private static String city = "odessa";
     private static String request = "видеокарта";
 
-    private static MySQLHelper sqlHelper = new MySQLHelper( "k1ts", "1234" );
+    private static MySQLHelper sqlHelper = new MySQLHelper( "abcd", "abcd" );
 
     private static List<Advertisement> advList = new ArrayList<>();
 
